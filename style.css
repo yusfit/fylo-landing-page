@@ -268,8 +268,8 @@ margin-right: 10%;
     body{
         background: url(./images/bg-curve-desktop.svg);
         background-repeat: no-repeat;
-        background-position: center 600px;
-        background-size: 2000px 1000px;
+        background-position: center 800px;
+        background-size: 2000px 1200px;
         font-size: 16px;
     }
     
@@ -311,7 +311,7 @@ margin-right: 10%;
      }
 
     .all_files h1{
-        max-width: 100%;
+        /* max-width: 100%; */
         font-family: "Raleway", sans-serif;
         text-align: center;
         justify-content: center;
@@ -322,7 +322,7 @@ margin-right: 10%;
     }
     
     .all_files p{
-        width: 100%;
+        /* width: 100%; */
         margin: 15px 0 14px -110px;
         font-family: "Open Sans", sans-serif;
         font-size: 1rem;
@@ -372,7 +372,7 @@ margin-right: 10%;
 
     .illustration_two img{
     width: 90%;
-    margin-left: 50px;
+    margin-left: 20px;
     margin-bottom: 40px;
 }
 
@@ -400,7 +400,7 @@ margin-right: 10%;
         border-bottom: 1px solid hsl(170, 45%, 43%);
         width: 30%;
         margin-bottom: 30px;
-        margin-left: 160px;
+        margin-left: 100px;
         font-size: 1.5rem;
     }
     
@@ -427,7 +427,7 @@ margin-right: 10%;
     }
 
     .get-early-access{
-        margin-left: 130px;
+        margin-left: 40px;
     }
     
     .get-early-access h1{
@@ -440,19 +440,20 @@ margin-right: 10%;
     }
     
     .get-early-access p{
-        width: 100%;
+        width: 60%;
         color: hsl(240, 75%, 98%);
         font-family: "Open Sans", sans-serif;
         font-size: 1rem;
         text-align: center;
-        margin-left: -60px;
+        /* margin-left: 0px; */
         margin-bottom: 20px;
     }
     
     .search-box{
-    margin-left: 70px;
+    margin-left: 0;
     display: flex;
     flex-direction: column;
+    margin-left: 20px;
     }
     
     .input-text{
@@ -495,7 +496,7 @@ margin-right: 10%;
         display: flex;
         flex-direction: column;
         /* justify-content: space-evenly; */
-        margin-left: 335px;
+        margin-left: 270px;
     }
     
     .last_part ul li{
@@ -526,7 +527,7 @@ margin-right: 10%;
     
     .bottom-logo img{
         filter: brightness(0%) invert(100%);
-        margin-left: 50px;
+        margin-left: -15px;
     }
     
     .social-logo{
